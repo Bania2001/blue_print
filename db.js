@@ -2,7 +2,7 @@ const { Sequelize } = require('sequelize')
 
 // Database
 const sequelize = new Sequelize(
-  '', // TODO: add database url
+  '', //
   {
     dialect: 'postgres',
     dialectOptions: {
