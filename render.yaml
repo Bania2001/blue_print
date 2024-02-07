@@ -13,7 +13,7 @@ services:
           property: connectionString
 
 databases:
-  - name: cloud-db
+  - name: data_base
     region: frankfurt
     plan: free
     databasesName: cloud
