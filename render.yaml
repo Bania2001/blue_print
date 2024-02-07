@@ -16,5 +16,5 @@ databases:
   - name: data_base
     region: frankfurt
     plan: free
-    databasesName: cloud
+    databasesName: data_base
     user: cloud
